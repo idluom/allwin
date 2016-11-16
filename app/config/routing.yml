@@ -1,3 +1,7 @@
+esprit_dhawdhaw:
+    resource: "@EspritDhawdhawBundle/Resources/config/routing.yml"
+    prefix:   /
+
 dhia:
     resource: "@DhiaBundle/Resources/config/routing.xml"
     prefix:   /

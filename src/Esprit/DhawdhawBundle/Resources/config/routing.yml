@@ -1,0 +1,3 @@
+esprit_dhawdhaw_homepage:
+    path:     /
+    defaults: { _controller: EspritDhawdhawBundle:Default:index }
